@@ -1,6 +1,15 @@
 # Webrtc-AAR-Releases
 Compiled Versions of libwebrtc.aar
 
+## Requirements
+- minSdkVersion = 21
+
+## Binaries included
+- arm64-v8a
+- armeabi-v7a
+- x86
+- x86_64
+
 ## Versions
 
  - [M105](https://github.com/AhmedHumk/Webrtc-AAr-Build-Releases/releases/download/V105/libwebrtc-m105.aar)
