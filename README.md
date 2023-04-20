@@ -10,3 +10,4 @@ Compiled Versions of libwebrtc.aar
  - [M109](https://github.com/AhmedHumk/Webrtc-AAr-Build-Releases/releases/download/V109/libwebrtc-m109.aar)
  - [M110](https://github.com/AhmedHumk/Webrtc-AAr-Build-Releases/releases/download/V110/libwebrtc-m110.aar)
  - [M111](https://github.com/AhmedHumk/Webrtc-AAr-Build-Releases/releases/download/V111/libwebrtc-m111.aar)
+ - [M112](https://github.com/AhmedHumk/Webrtc-AAr-Build-Releases/releases/download/V112/libwebrtc-m112.aar)
