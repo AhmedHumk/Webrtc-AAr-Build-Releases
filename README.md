@@ -1,5 +1,5 @@
 # Webrtc-AAR-Releases
-Compiled Versions of libwebrtc.aar
+Compiled AAR Versions of Webrtc
 
 ## Requirements
 - minSdkVersion = 21
