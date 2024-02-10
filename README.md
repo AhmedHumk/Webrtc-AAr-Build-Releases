@@ -29,3 +29,4 @@ Compiled AAR Versions of Webrtc
  - [M119](https://github.com/AhmedHumk/Webrtc-AAr-Build-Releases/releases/download/V119/libwebrtc-m119.aar)
  - [M120](https://github.com/AhmedHumk/Webrtc-AAr-Build-Releases/releases/download/V120/libwebrtc-m120.aar)
  - [M121](https://github.com/AhmedHumk/Webrtc-AAr-Build-Releases/releases/download/V121/libwebrtc-m121.aar)
+ - [M122](https://github.com/AhmedHumk/Webrtc-AAr-Build-Releases/releases/download/V122/libwebrtc-m122.aar)
